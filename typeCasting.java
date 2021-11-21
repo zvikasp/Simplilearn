@@ -1,3 +1,5 @@
+package Simplilearn;
+
 
 public class typeCasting {
 
